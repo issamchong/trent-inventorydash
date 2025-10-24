@@ -1,0 +1,22 @@
+{
+  "placeholderImages": [
+    {
+      "id": "microController",
+      "description": "A close-up of a microcontroller chip.",
+      "imageUrl": "https://images.unsplash.com/photo-1649959265391-8a1de884248a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxtaWNyb2NvbnRyb2xsZXIlMjBjaXJjdWl0fGVufDB8fHx8MTc2MTI5OTkzNHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "microcontroller circuit"
+    },
+    {
+      "id": "resistorKit",
+      "description": "An assortment of resistors in a kit.",
+      "imageUrl": "https://images.unsplash.com/photo-1649959265008-f262fa46d9a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxyZXNpc3RvcnMlMjBlbGVjdHJvbmljc3xlbnwwfHx8fDE3NjEyOTk5MzR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "resistors electronics"
+    },
+    {
+      "id": "ledPack",
+      "description": "A pack of colorful LEDs.",
+      "imageUrl": "https://images.unsplash.com/photo-1618403323851-ac3d38029495?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxsZWQlMjBsaWdodHN8ZW58MHx8fHwxNzYxMjk5OTM0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "led lights"
+    }
+  ]
+}
