@@ -9,7 +9,7 @@ export function DashboardHeader() {
         <h1 className="text-3xl font-bold tracking-tight">Logistics Dashboard</h1>
         <p className="mt-1 text-muted-foreground">An overview of your inventory and shipments.</p>
       </div>
-      <Link href="/">
+      <Link href="https://trent-maindash.vercel.app/">
         <Button variant="outline">
           <Home className="mr-2 h-4 w-4" />
           Home
